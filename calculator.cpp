@@ -16,7 +16,7 @@ int main(){
         cout << "2. Substraction" << endl;
         cout << "3. Multiplication" << endl;
         cout << "4. Division" << endl;
-        cout << "4. Exit" << endl;
+        cout << "5. Exit" << endl;
         cout << "Enter your choice: ";
         cin >> choice;
         
